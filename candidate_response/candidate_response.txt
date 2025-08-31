@@ -1,75 +1,3 @@
-
---- New Interview Session Started ---
-
-Name: poipoipo 
-Email: oipoipoi 
-Country Code: +91 
-Phone: iopipip 
-Experience: 2 years 
-Desired Positions: oiopip 
-Current Location: poipoi 
-Tech Stack: Python
-
-Assistant: What is the difference between NumPy and pandas in Python?
-
-User: iopipipoipoip
-
-Assistant: How do you implement object-oriented programming in Python?
-
-User: yiuyiuyyiuy
-
-Assistant: Can you explain the concept of decorators in Python?
-
-User: hguygutuytuy
-
-Assistant: ✅ All questions answered. Thank you!
-
---- New Interview Session Started ---
-
-Name: opiipoi 
-Email: popoi 
-Country Code: +91 
-Phone: popi 
-Experience: 2 years 
-Desired Positions: jpoipo 
-Current Location: poip 
-Tech Stack: Python
-
-Assistant: What is object-oriented programming in Python?
-
-User: oipuytr
-
-Assistant: What are the benefits of using NumPy in data analysis with Python?
-
-User: uytyouiljkjl
-
-Assistant: Can you explain how Flask handles request and response in a web application?
-
-User: vgjhggh
-
---- New Interview Session Started ---
-
-Name: iop 
-Email: pio 
-Country Code: +91 
-Phone: io 
-Experience: 2 years 
-Desired Positions: poi 
-Current Location: pio 
-Tech Stack: Python
-
-Assistant: What are Python's built-in data structures and algorithms?
-
-User: Integer, float, bool, list, dictionary, tupples 
-
-Assistant: How does asyncio work in Python?
-
-User: poi
-
-Assistant: Can you explain the concept of decorators in Python?
-
-User: uyttiuyoiu
-
 --- New Interview Session Started ---
 
 Name: Maan 
@@ -93,28 +21,65 @@ Assistant: What is the difference between NumPy and Pandas?
 
 User: ashgvhgav
 
+
+
 --- New Interview Session Started ---
 
-Name: io[o 
-Email: p[o[po 
+Name: Manwendra Mahato 
+Email: maan@gmail.com 
 Country Code: +91 
-Phone: p[op[o 
+Phone: 9876543210 
+Experience: 1 years 
+Desired Positions: Data Analyst 
+Current Location: Asansol 
+Tech Stack: Pydantic
+
+Assistant: What are the use cases for Pydantic models in building robust APIs?
+
+User: The are scalable
+
+Assistant: How do you handle validation and error handling with Pydantic?
+
+User: Using exception handling
+
+Assistant: Can you explain the concept of hyperparameters and how to optimize them using Hyperopt and Pydantic?
+
+User: lorem ipsum
+
+
+
+--- New Interview Session Started ---
+
+Name: Manwendra Mahato 
+Email: maan@gmail.com 
+Country Code: +91 
+Phone: 1234567809 
 Experience: 2 years 
-Desired Positions: o[po[o 
-Current Location: po[po 
-Tech Stack: JAVA
+Desired Positions: Data Analyst 
+Current Location: Asansol 
+Tech Stack: Python, Django
 
-Assistant: What is Java
+Assistant: What is Python?
 
-User: Language
+User: Python is a high level, compiled interpreted language with support for object oriented programming.
 
-Assistant: What are the different types of Java Collections Frameworks
+Assistant: What are asynchronous programming concepts in Python?
 
-User: jakj
+User: Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta non nisi eum minima quibusdam repellendus incidunt. Culpa odit accusantium eius cumque, voluptates itaque dolore enim eaque maiores, quod, similique recusandae.
 
-Assistant: How to design a scalable Java-based web application?
+Assistant: How does pip package manager work?
 
-User: jhguyg
+User: Pip's primary function is to simplify the process of downloading and installing packages. By default, it fetches packages from the Python Package Index (PyPI), a vast online repository of public Python packages.
 
+Assistant: What is Django's ORM and how does it interact with the database?
 
+User: Django's ORM (Object-Relational Mapper) is a powerful feature that allows developers to interact with a database using Python objects and code, rather than writing raw SQL queries. It provides an abstraction layer between the application's Python code and the underlying relational database. 
+
+Assistant: How do you implement authentication and authorization in Django?
+
+User: Django's built-in authentication and authorization system provides robust tools for managing users, groups, permissions, and session-based authentication.
+
+Assistant: Can you explain Django's request-response cycle?
+
+User: The Django request-response cycle describes the sequence of events that occur when a web request is made to a Django application and a response is returned.
 

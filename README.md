@@ -19,13 +19,26 @@ TalentScout Hiring Assistant is an intelligent chatbot designed for initial cand
 - **Local Storage:** Simulated data storage for candidate responses.
 
 ---
+## Project screenshot
 
+1. **TalentScout interview form:**
+![alt text](screen_shots/Form_page_2.png)
+After clicking on the `Proceed to Interview` button, the Interview agent is loaded
+
+2. **Interview agent:**
+![alt text](screen_shots/Interview_page.png)
+
+3. **Completion message:**
+![alt text](screen_shots/Thankyou_message.png)
+After completion of the Interview by the agent. The following Completion message will be displayed. As soon as this message is displayed, all the candidate details and the interview conversations would be stored.
+---
 ## Installation Instructions
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/talentScout-hiring-assistant.git
-   cd talentScout-hiring-assistant
+   git clone https://github.com/manwendra-mm/TalentScout-hiring-assistant.git
+
+   cd TalentScout-hiring-assistant
    ```
 
 2. **Install Dependencies**
@@ -98,7 +111,7 @@ TalentScout Hiring Assistant is an intelligent chatbot designed for initial cand
 ## Repository Structure
 
 ```
-talentscout-hiring-assistant/
+TalentScout-hiring-assistant/
 ├── form.py
 ├── utils.py
 ├── candidate_response/
@@ -137,8 +150,8 @@ talentscout-hiring-assistant/
 
 This project is for educational purposes and demonstration only.
 
----
 <!--
+---
 ## Contact
 
 For questions or support, please contact [your.email@example.com](mailto:your.email@example.com).

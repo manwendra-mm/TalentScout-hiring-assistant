@@ -131,7 +131,7 @@ if st.session_state.page == "result":
     st.title("Welcome to the :blue[Interview App]!")
     st.markdown("#### **Your Submitted Information:**")
 
-    # Display the data passed from the form
+    # Display the data passed from the form #Debug purpose
     #submitted_data = f"Name: {st.session_state.name} \nEmail: {st.session_state.email} \nCountry Code: {st.session_state.country_code} \nPhone: {st.session_state.phone} \nExperience: {st.session_state.experience} years \nDesired Positions: {st.session_state.desired_positions} \nCurrent Location: {st.session_state.current_location} \nTech Stack: {st.session_state.tech_stack}"
 
     st.code(st.session_state.submitted_data)
