@@ -1,0 +1,120 @@
+
+--- New Interview Session Started ---
+
+Name: poipoipo 
+Email: oipoipoi 
+Country Code: +91 
+Phone: iopipip 
+Experience: 2 years 
+Desired Positions: oiopip 
+Current Location: poipoi 
+Tech Stack: Python
+
+Assistant: What is the difference between NumPy and pandas in Python?
+
+User: iopipipoipoip
+
+Assistant: How do you implement object-oriented programming in Python?
+
+User: yiuyiuyyiuy
+
+Assistant: Can you explain the concept of decorators in Python?
+
+User: hguygutuytuy
+
+Assistant: ✅ All questions answered. Thank you!
+
+--- New Interview Session Started ---
+
+Name: opiipoi 
+Email: popoi 
+Country Code: +91 
+Phone: popi 
+Experience: 2 years 
+Desired Positions: jpoipo 
+Current Location: poip 
+Tech Stack: Python
+
+Assistant: What is object-oriented programming in Python?
+
+User: oipuytr
+
+Assistant: What are the benefits of using NumPy in data analysis with Python?
+
+User: uytyouiljkjl
+
+Assistant: Can you explain how Flask handles request and response in a web application?
+
+User: vgjhggh
+
+--- New Interview Session Started ---
+
+Name: iop 
+Email: pio 
+Country Code: +91 
+Phone: io 
+Experience: 2 years 
+Desired Positions: poi 
+Current Location: pio 
+Tech Stack: Python
+
+Assistant: What are Python's built-in data structures and algorithms?
+
+User: Integer, float, bool, list, dictionary, tupples 
+
+Assistant: How does asyncio work in Python?
+
+User: poi
+
+Assistant: Can you explain the concept of decorators in Python?
+
+User: uyttiuyoiu
+
+--- New Interview Session Started ---
+
+Name: Maan 
+Email: maan@gmail.com 
+Country Code: +91 
+Phone: 9876543218 
+Experience: 2 years 
+Desired Positions: Data Analyst 
+Current Location: Asansol 
+Tech Stack: Python
+
+Assistant: What is version control with Git in Python projects?
+
+User: uioppi
+
+Assistant: How do you optimize database performance using SQLAlchemy and ORM?
+
+User: wfsfhjaklhajfv
+
+Assistant: What is the difference between NumPy and Pandas?
+
+User: ashgvhgav
+
+--- New Interview Session Started ---
+
+Name: io[o 
+Email: p[o[po 
+Country Code: +91 
+Phone: p[op[o 
+Experience: 2 years 
+Desired Positions: o[po[o 
+Current Location: po[po 
+Tech Stack: JAVA
+
+Assistant: What is Java
+
+User: Language
+
+Assistant: What are the different types of Java Collections Frameworks
+
+User: jakj
+
+Assistant: How to design a scalable Java-based web application?
+
+User: jhguyg
+
+
+
