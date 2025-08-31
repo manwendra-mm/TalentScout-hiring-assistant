@@ -31,7 +31,8 @@ def generate_questions_from_techstack(tech_stacks):
 
 def save_all_conversation_to_file(string_data):
     current_dir=os.getcwd()
-    full_path=os.path.join(current_dir,"candidate_response/candidate_response.txt")
+    full_path=os.path.join(current_dir,"candidate_response/candidate_response.txt") #This is another way to get the path
+    #full_path = "candidate_response/candidate_response.txt"
     #print("Debug 9: ", full_path) #Debugging line to check the path
     file =  open(full_path, "a", encoding="utf-8") #utf-8 encoding to support special characters, it's not necessary.
     file.write(string_data + "\n")
@@ -39,7 +40,7 @@ def save_all_conversation_to_file(string_data):
 
 
 
-# For quick testing
+# For quick testing only
 if __name__ == "__main__":
     #generate_questions_from_techstack("Python, Django")
     save_all_conversation_to_file("Agent: What is Python?")

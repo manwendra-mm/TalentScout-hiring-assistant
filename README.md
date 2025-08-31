@@ -31,7 +31,7 @@ The Agent would ask relevant questions based on the candidate's mentioned Tech s
 ![alt text](screen_shots/Interview_page.png)
 
 3. **Completion message:**
-After completion of the Interview by the agent, the following Completion message will be displayed. As soon as this message is displayed, all the candidate details and the interview conversations would be saved.
+After completion of the Interview by the agent, the following Completion message will be displayed. As soon as this message is displayed, all the candidate details and the interview conversations would be saved for further evaluation.
 ![alt text](screen_shots/Thankyou_message.png)
 ---
 ## Installation Instructions
@@ -106,7 +106,6 @@ After completion of the Interview by the agent, the following Completion message
 - `streamlit`
 - `langchain_ollama`
 - `langchain_core`
-- `os`
 
 ---
 
