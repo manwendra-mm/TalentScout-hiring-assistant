@@ -22,15 +22,17 @@ TalentScout Hiring Assistant is an intelligent chatbot designed for initial cand
 ## Project screenshot
 
 1. **TalentScout interview form:**
+First the candidates would have to fill the following form.
 ![alt text](screen_shots/Form_page_2.png)
 After clicking on the `Proceed to Interview` button, the Interview agent is loaded
 
 2. **Interview agent:**
+The Agent would ask relevant questions based on the candidate's mentioned Tech stack, as shown below. 
 ![alt text](screen_shots/Interview_page.png)
 
 3. **Completion message:**
+After completion of the Interview by the agent, the following Completion message will be displayed. As soon as this message is displayed, all the candidate details and the interview conversations would be saved.
 ![alt text](screen_shots/Thankyou_message.png)
-After completion of the Interview by the agent. The following Completion message will be displayed. As soon as this message is displayed, all the candidate details and the interview conversations would be stored.
 ---
 ## Installation Instructions
 
