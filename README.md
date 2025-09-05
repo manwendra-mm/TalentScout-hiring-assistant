@@ -125,7 +125,7 @@ TalentScout-hiring-assistant/
 
 ## Demo
 
-- **Video Walkthrough:** [Loom Demo Link](#) *(As soon as the demo video is created, the link would be attached here.)*
+- **Video Walkthrough:** [YouTube Demo Link](https://youtu.be/MpkXAB_j-KQ?si=sWhp9dNFHErbywoj)
 - **Live Demo:** *(Project is not currently deployed, as soon as it's deployed, it would be added here.)*
 
 ---
